@@ -1,0 +1,205 @@
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+
+/* for upper and bottom navbar */
+
+.nav {
+    background-color:lightslategray;
+
+}
+/* for navbar close */
+/*making nav stick to the top*/
+
+.stick-top{
+    top:0 !important;
+    position: absolute !important;
+    width: 100%;
+}
+
+
+
+/*making menu nav stick to the top*/
+
+.stick-top2{
+    top: 110px; !important;
+    position: absolute !important;
+    width: 100%;
+}
+
+/*making bottom nav stick to the bottom*/
+
+.addemp{
+    margin-left: 500px;
+}
+
+
+
+
+/* contact in upper navbar*/
+#uppernav{color: green ;margin-left: 120px}
+
+/* contact close*/
+
+/* contact in bottom navbar*/
+#contact{direction: rtl ;margin-right: 30px}
+
+/* contact close*/
+
+
+
+
+
+
+
+
+
+/* Login box*/
+#login_div{ margin-top: 2px;height: 190px;width: 500px;padding: 15px; border: 10px solid navy; margin: 15px;padding-left: 20px}
+#forgot{ margin-top:-70px;margin-left: 50px}
+
+
+/* login close */
+
+
+
+
+#aboutus{margin-top: 5px}
+
+#news{margin-top: -180px}
+
+
+
+
+/* for LoggedIN  (welcome note) */
+#panel, #flip {
+    padding: 2px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 10px;
+    display: none;
+}
+/* for LoggedIN close */
+
+.homebtn{color:#000000;font-size: 34px;padding-top: 13px}
+#homebtnstyle{font-size: 34px;padding-top: 13px}
+
+#logoutbtn{margin-left: 820px;margin-top: -30px;color: lightcoral }
+
+
+
+
+
+/* for button boxes */
+
+.myButton {
+
+    background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+    background-color:#44c767;
+
+
+    border-radius:19px;
+
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-size:17px;
+    padding:10px 10px;
+    text-shadow:0px 1px 0px #2f6627;
+
+}
+
+#boxcollection{
+    padding-left: 430px;
+    margin-top: 30px;
+}
+
+#boxcollectionResouceManager{
+    padding-left: 420px;
+    margin-top: 30px;
+}
+#boxcollectionAccountant{
+    padding-left: 500px;
+    margin-top: 30px;
+}
+#boxcollectionTM{
+    padding-left: 350px;
+    margin-top: 30px;
+}
+.boxdiffence{margin-left: 25px}
+
+
+/* for button boxes close */
+
+
+/* query */
+#query {
+    background-color: gainsboro;
+    width: 200px;
+    border: 10px solid gray;
+    padding: 22px;
+    margin: -3px;
+}
+
+/* query */
+
+
+
+/* profilePage*/
+
+
+/* profilePageInfo*/
+#profilePageInfo{
+    margin-left:200px;word-spacing: 5px;
+}
+
+
+/* profilePageInfo ends */
+
+#editbtn{
+   color: darksalmon;
+}
+
+
+/* profilePage ends*/
+
+
+
+
+/* Forget password box*/
+body {
+    padding-top: 220px;
+    padding-bottom: 220px;
+    background-color: #eee;
+}
+
+.form-signin {
+    width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+/* Forget password box ends*/
